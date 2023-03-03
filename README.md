@@ -1,5 +1,7 @@
 # Landing Page Project
 
+This is a project of Udacity Front End Web Developer Program, about JavaScript & DOM. 
+
 ## Table of Contents
 
 * [Instructions](#instructions)
