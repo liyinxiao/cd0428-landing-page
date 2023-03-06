@@ -1,6 +1,6 @@
 # Landing Page Project
 
-This is Project 3 of Udacity Front End Web Developer Program, about JavaScript & DOM. 
+This is Project 2 of Udacity Front End Web Developer Program, about JavaScript & DOM. 
 
 ## Table of Contents
 
